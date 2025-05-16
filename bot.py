@@ -7,7 +7,7 @@ import json
 # ======== تنظیمات API ======== #
 GEMINI_API_KEY = "AIzaSyDYI8haXIMCFMoU3BVDSiiTclZXyTxLrvA"
 DEEPSEEK_API_KEY = "sk-d8c37665a9cd4218bd5778a28121c0cf"
-TELEGRAM_TOKEN = "7058073017:AAGutX4q9NKc21SwZ0ZXtbuIda8bvXtRVaw"
+TELEGRAM_TOKEN = "7888976238:AAGtgJFBbzJYQpr2N42_iQ321hEGd2qGtdk"
 
 genai.configure(api_key=GEMINI_API_KEY)
 gemini_model = genai.GenerativeModel('gemini-pro')
